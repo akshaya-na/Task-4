@@ -15,8 +15,4 @@ This task focuses on converting an existing **desktop-only webpage** into a **mo
 - **CSS3** (updated for responsiveness)
 - **VS Code** (editor)
 
-## 📂 Project Structure
 
-responsive-website/
-├── index.html      
-└── style.css      
